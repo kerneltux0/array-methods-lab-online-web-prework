@@ -1,5 +1,5 @@
 def using_include(array, element1)
-  array = ["Denver", "NYC", "Seattle", "London"]
+  array = [true, "NYC", "Seattle", "London"]
   array.include?(element1)
 end
 
